@@ -9,7 +9,7 @@ It' same that there still no right way to export yolov8 to onnx format, so I try
 3. download the `gelan-c.pt` 
 4. run `python export.py`
 5. cp `yolov9/weights/gelan-c.onnx` to this folder 
-6. run `python main.py`
+6. run `python main_ocv.py` or `python main_ort.py`
 
 If everything is ok, you will see the result like this:
 
