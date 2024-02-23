@@ -1,0 +1,4 @@
+[upstream]
+origin_type = "github"
+user_name = "shupengwang20180508"
+repo_name = "yolov9.infer"
